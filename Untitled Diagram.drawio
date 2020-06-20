@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T22:23:56.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="fHzIOz6JfOc_7w7bxVBD" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-20T22:29:50.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="FL3vpEdCM85kdRD-44Tc" version="13.3.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1351" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -162,9 +162,6 @@
         <mxCell id="nC1duATA6xiUtv2VN2Um-40" value="Adv Elective" style="html=1;whiteSpace=wrap;fillColor=#b0e3e6;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="600" y="710" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="nC1duATA6xiUtv2VN2Um-42" value="Calc II" style="html=1;whiteSpace=wrap;fillColor=#ffcccc;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="275" y="522.5" width="150" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="nC1duATA6xiUtv2VN2Um-45" value="4110&lt;br&gt;Algorithms" style="html=1;whiteSpace=wrap;fillColor=#ffcccc;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="210" y="1070" width="150" height="75" as="geometry" />
         </mxCell>
@@ -221,6 +218,15 @@
         </mxCell>
         <mxCell id="nC1duATA6xiUtv2VN2Um-65" value="4902 (Capstone)" style="html=1;whiteSpace=wrap;fillColor=#ffcccc;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="230" y="1262.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="QC8opKdo3LrbvCKmcCdu-1" value="Calc II" style="html=1;whiteSpace=wrap;fillColor=#fa6800;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1136.5" y="192.5" width="80" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="QC8opKdo3LrbvCKmcCdu-2" value="Probability" style="html=1;whiteSpace=wrap;fillColor=#fa6800;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="930" y="890" width="80" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="QC8opKdo3LrbvCKmcCdu-3" value="Linear Al" style="html=1;whiteSpace=wrap;fillColor=#fa6800;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="362.5" width="80" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
